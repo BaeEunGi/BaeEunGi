@@ -22,3 +22,6 @@ Here are some ideas to get you started:
   </div>
   
 ![BaeEunGi's github stats](https://github-readme-stats.vercel.app/api?username=BaeEunGi&show_icons=true)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=withjust7)](https://solved.ac/withjust7)
