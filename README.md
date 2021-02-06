@@ -1,7 +1,4 @@
 ### Hi! It's My Coding History!
-
-
-
  
  
  
