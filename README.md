@@ -1,7 +1,5 @@
 ### Hi! It's My Coding History!
  
- 
-
 
 
 <div align=center>
