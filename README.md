@@ -36,9 +36,9 @@
 
 
 ## 2020 Activities
-- [DeepLearing Study]()
-- [MachineLearning Study]()
-- [AWS Study]()
+- [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
+- [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
+- [AWS Study](https://github.com/BaeEunGi/AWS_study)
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
 
 ## 2021 Activities
