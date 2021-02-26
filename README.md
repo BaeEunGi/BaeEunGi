@@ -43,7 +43,7 @@
 ## 2021 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
 - General Affairs of School Central Club - 'Inyro'(Programming Club)
-
+- [Algorithm Study](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays)
 
 
 
