@@ -4,8 +4,7 @@
 
 ## Hi! It's My Coding History!
  
- 
- <div align=center>
+<div align=center>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeEunGi&count_bg=%23F10707&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://withjust7.tistory.com/)](https://withjust7.tistory.com/)
@@ -14,12 +13,13 @@
 
 </div>
 
-  
+  <div align=center>
+ 
 ![BaeEunGi's github stats](https://github-readme-stats.vercel.app/api?username=BaeEunGi&show_icons=true)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=withjust7)](https://solved.ac/withjust7)
 
+</div>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
