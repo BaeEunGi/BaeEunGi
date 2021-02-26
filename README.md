@@ -43,7 +43,7 @@
 
 ## 2021 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
-- Deputy Head of School Central Club - 'Inyro'(Programming Club)
+- General Affairs of School Central Club - 'Inyro'(Programming Club)
 
 
 
