@@ -22,13 +22,13 @@
 
 <h1 align="center"> 🛠 Tech Stack 🛠</h1>
 
-<p align="center"> What I Can Use Well </p>
+**<p align="center"> What I Can Use Well </p>**
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
 
-<p align="center"> Techs that I've used at least once </p>
+**<p align="center"> Techs that I've used at least once </p>**
 <p align="center">
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
