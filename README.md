@@ -36,10 +36,15 @@
 
 
 ## 2020 Activities
+- [DeepLearing Study]()
+- [MachineLearning Study]()
+- [AWS Study]()
+- [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
 
 ## 2021 Activities
-- ElasticSearch Engineer Training
+- [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
 - Deputy Head of School Central Club - 'Inyro'(Programming Club)
+
 
 
 
