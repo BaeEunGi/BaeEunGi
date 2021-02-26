@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eungi%20Bae&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF6666&height=300&section=header&text=Eungi%20Bae&fontSize=90&fontColor=FFFFFF)
 
 
 
@@ -44,4 +44,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=FF6666&height=200&section=footer&text=%20&fontSize=90)
