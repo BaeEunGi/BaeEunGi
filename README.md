@@ -5,7 +5,8 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeEunGi&count_bg=%23F10707&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://withjust7.tistory.com/)](https://withjust7.tistory.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/with_just)](https://www.instagram.com/with_just) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/with_just)](https://www.instagram.com/with_just)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/eungi-bae-a3ba98207)](http://linkedin.com/in/eungi-bae-a3ba98207)
 
 </div>
 
