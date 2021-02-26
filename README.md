@@ -37,6 +37,10 @@
 
 ## 2020 Activities
 
+## 2021 Activities
+- ElasticSearch Engineer Training
+- Deputy Head of School Central Club - 'Inyro'(Programming Club)
+
 
 
 
