@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eungi%20Bae&fontSize=90)
+
+
+
 ## Hi! It's My Coding History!
  
  
@@ -29,3 +33,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
+
+
+## 2020 Activities
+
+
+
+
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
