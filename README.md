@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
 
 
+
+
 ## 2020 Activities
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
