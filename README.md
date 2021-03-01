@@ -34,14 +34,11 @@
 
 
 
-
-## 2020 Activities
+## 2021 Activities
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
 - [AWS Study](https://github.com/BaeEunGi/AWS_study)
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
-
-## 2021 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
 - General Affairs of School Central Club - 'Inyro'(Programming Club)
 - [Algorithm Study](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays)
