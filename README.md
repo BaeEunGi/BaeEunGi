@@ -34,6 +34,7 @@
 
 
 
+
 ## 2021 Activities
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
