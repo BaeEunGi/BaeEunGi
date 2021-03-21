@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF6666&height=300&section=header&text=Eungi%20Bae&fontSize=90&fontColor=FFFFFF)
 
 
+
 ## Hi! It's My Coding History!
 
 <div align=center>
