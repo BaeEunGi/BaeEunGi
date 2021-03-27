@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
 
+## Career
+- General Affairs of School Central Club - 'Inyro'(Programming Club) [2020.12~2021.12]
+- Elasticsearch Cloud Manager(SangMyung.Univ) [2021.03~2022.03]
 
 
 
@@ -41,7 +44,6 @@
 - [AWS Study](https://github.com/BaeEunGi/AWS_study)
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
-- General Affairs of School Central Club - 'Inyro'(Programming Club)
 - [Algorithm Study](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays)
 
 
