@@ -49,7 +49,7 @@
 - [Ninja_Turtle](https://github.com/hyunmin0317/Ninja_Turtle)
 - [DARKNIGHT_web](https://github.com/hyunmin0317/Ninja_Turtle)
 
-###  :computer: Activities
+###  🌱 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
 
 
