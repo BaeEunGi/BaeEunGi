@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
 
 ## :trophy: Career
-- General Affairs of School Central Club - 'Inyro'(Programming Club) [2020.12~2021.12]
-- Elasticsearch Cloud Manager(SangMyung.Univ) [2021.03~2023.03]
+- General Affairs of School Central Club - 'Inyro' (Programming Club) [2020.12~2021.12]
+- Elasticsearch Cloud Manager (SangMyung.Univ) [2021.03~2023.03]
 
 
 ## 2021
