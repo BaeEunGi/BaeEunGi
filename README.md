@@ -42,7 +42,7 @@
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
 - [AWS Study](https://github.com/BaeEunGi/AWS_study)
-- [Algorithm Study](https://github.com/sunjungAn/DARKNIGHT_web)
+- [Algorithm Study](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays)
 
 ###  :computer: Project
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
