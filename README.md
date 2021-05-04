@@ -37,7 +37,7 @@
 - Elasticsearch Cloud Manager (SangMyung.Univ) [2021.03~2023.03]
 
 
-## 2021
+# 2021
 ### :book: Study
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
