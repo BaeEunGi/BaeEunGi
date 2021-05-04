@@ -32,21 +32,25 @@
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
 
-## Career
+## :trophy: Career
 - General Affairs of School Central Club - 'Inyro'(Programming Club) [2020.12~2021.12]
 - Elasticsearch Cloud Manager(SangMyung.Univ) [2021.03~2023.03]
 
 
-
-## 2021 Activities
+## 2021
+### :book: Study
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
 - [AWS Study](https://github.com/BaeEunGi/AWS_study)
+- [Algorithm Study](https://github.com/sunjungAn/DARKNIGHT_web)
+
+###  :computer: Project
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
+- [Ninja_Turtle](https://github.com/hyunmin0317/Ninja_Turtle)
+- [DARKNIGHT_web](https://github.com/hyunmin0317/Ninja_Turtle)
+
+###  :computer: Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
-- [Algorithm Study](https://github.com/sunjungAn/SMU_algorithmstudy_Sevendays)
-
-
 
 
 
