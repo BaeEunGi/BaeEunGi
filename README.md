@@ -46,7 +46,7 @@
 
 ###  :computer: Project
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
-- [Ninja_Turtle](https://github.com/hyunmin0317/Ninja_Turtle)
+- [Ninja_Turtle](https://github.com/BaeEunGi/Ninja_Turtle)
 - [DARKNIGHT_web](https://github.com/sunjungAn/DARKNIGHT_web)
 - [Elastic_HIP](https://github.com/sunjungAn/Elastic_hip)
 
