@@ -26,7 +26,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/width="7.5%" height="7.5%"></a>&nbsp
+
 
 **<p align="center"> Techs that I've used at least once </p>**
 <p align="center">
