@@ -53,7 +53,7 @@
 - [MaskDetecter Project](https://github.com/BaeEunGi/Mask_Detection)
 - [Ninja_Turtle](https://github.com/BaeEunGi/Ninja_Turtle)
 - [DARKNIGHT_web](https://github.com/sunjungAn/DARKNIGHT_web)
-- [Elastic_Form](https://github.com/sunjungAn/Elastic_Form)
+- [Elastic-Form](https://github.com/sunjungAn/Elastic-Form)
 
 ###  🌱 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
