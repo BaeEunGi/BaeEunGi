@@ -57,6 +57,7 @@
 
 ###  🌱 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
+- [상명대 중앙동아리 이니로 부원들을 위한 Elastic 소개 영상](https://www.youtube.com/watch?v=iVT-Edo9JAE)
 
 
 
