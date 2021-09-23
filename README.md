@@ -59,8 +59,8 @@
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
 - [ElasticSearch CTF Certificate](https://github.com/BaeEunGi/Photo_Repo/blob/main/%5BElastic%5D%20CTF%20Certificate_%EB%B0%B0%EC%9D%80%EA%B8%B0%EB%8B%98.pdf)
 - [상명대 중앙동아리, 부원들을 위한 Elastic 소개 영상](https://www.youtube.com/watch?v=iVT-Edo9JAE)
-
-
+- [OpenUp_Ai_Training Course Completed](https://github.com/BaeEunGi/Photo_Repo/blob/main/OpenUp_AI.pdf)
+- [OpenUp_Bigdata_Analysis_Training Course Completed](https://github.com/BaeEunGi/Photo_Repo/blob/main/OpenUp_Bigdata.pdf)
 
 
 
