@@ -63,6 +63,9 @@
 - [OpenUp_Bigdata_Analysis_Training Course Completed](https://github.com/BaeEunGi/Photo_Repo/blob/main/OpenUp_Bigdata.pdf)
 
 
+# 2022
+
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=FF6666&height=200&section=footer&text=%20&fontSize=90)
