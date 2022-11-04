@@ -38,7 +38,7 @@
 
 ## :trophy: Career
 - General Affairs of School Central Club - 'Inyro' (Programming Club) [2020.12~2021.12]
-- Elasticsearch Cloud Manager (SangMyung.Univ) [2021.03~2023.03]
+- Elasticsearch Cloud Manager (SangMyung.Univ) [2021.03~2022.03]
 - [AI.SW Competition_Grand Prize(SangMyung.Univ)](https://github.com/BaeEunGi/Photo_Repo/blob/main/Ninja_Turtle.md)
 
 
