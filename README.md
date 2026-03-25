@@ -4,7 +4,6 @@
 
 <div align=center>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeEunGi&count_bg=%23F10707&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=github&link=https://withjust7.tistory.com/)](https://withjust7.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/with_just)](https://www.instagram.com/with_just)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/eungi-bae-a3ba98207)](http://linkedin.com/in/eungi-bae-a3ba98207)
@@ -42,7 +41,7 @@
 - [AI.SW Competition_Grand Prize(SangMyung.Univ)](https://github.com/BaeEunGi/Photo_Repo/blob/main/Ninja_Turtle.md)
 
 
-# 2021
+
 ### :book: Study
 - [DeepLearing Study](https://github.com/BaeEunGi/DeepLearning_STUDY)
 - [MachineLearning Study](https://github.com/sunjungAn/Machine_Learning)
@@ -54,6 +53,7 @@
 - [Ninja_Turtle](https://github.com/BaeEunGi/Ninja_Turtle)
 - [DARKNIGHT_web](https://github.com/sunjungAn/DARKNIGHT_web)
 - [Elastic-Form](https://github.com/sunjungAn/Elastic-Form)
+- [Fitting Space](https://github.com/BaeEunGi/FittingSpace)
 
 ###  🌱 Activities
 - [ElasticSearch Engineer Training](https://www.smu.ac.kr/lounge/notice/notice.do?mode=view&articleNo=714865&article.offset=0&articleLimit=10&srCategoryId1=20)
@@ -61,10 +61,6 @@
 - [상명대 중앙동아리, 부원들을 위한 Elastic 소개 영상](https://www.youtube.com/watch?v=iVT-Edo9JAE)
 - [OpenUp_Ai_Training Course Completed](https://github.com/BaeEunGi/Photo_Repo/blob/main/OpenUp_AI.pdf)
 - [OpenUp_Bigdata_Analysis_Training Course Completed](https://github.com/BaeEunGi/Photo_Repo/blob/main/OpenUp_Bigdata.pdf)
-
-
-# 2022
-
 
 
 
