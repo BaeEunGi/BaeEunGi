@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/width="70" height="20"></a>&nbsp
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
 
 
 **<p align="center"> Techs that I've used at least once </p>**
