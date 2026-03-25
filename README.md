@@ -8,35 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/with_just)](https://www.instagram.com/with_just)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/eungi-bae-a3ba98207)](http://linkedin.com/in/eungi-bae-a3ba98207)
 
-</div>
 
-  <div align=center>
- 
-![BaeEunGi's github stats](https://github-readme-stats.vercel.app/api?username=BaeEunGi&show_icons=true)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=withjust7)](https://solved.ac/withjust7)
-
-</div>
-
-
-<h1 align="center"> 🛠 Tech Stack 🛠</h1>
-
-**<p align="center"> What I Can Use Well </p>**
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/width="70" height="20"></a>&nbsp
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-
-
-
-**<p align="center"> Techs that I've used at least once </p>**
-<p align="center">
-<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 
 ## :trophy: Career
 - General Affairs of School Central Club - 'Inyro' (Programming Club) [2020.12~2021.12]
